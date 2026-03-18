@@ -8,7 +8,7 @@ public class exemplo02 {
 		int numero;
 		
 		System.out.println("informe o número: ");
-		numero= ler.nextInt();
+		numero = ler.nextInt();
 		
 		if (numero > 0) {
 			System.out.println("O número é positivo");
@@ -18,9 +18,16 @@ public class exemplo02 {
 		}
 		else {
 			System.out.println("O número é negativo");
-		ler.close();
 		
+		
+		ler.close();
 		}
+	}
+	
+	
+		
+	
+		
 		
 
 
